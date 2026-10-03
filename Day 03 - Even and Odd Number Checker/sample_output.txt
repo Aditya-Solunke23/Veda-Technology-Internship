@@ -1,0 +1,30 @@
+========================================
+       EVEN AND ODD NUMBER CHECKER
+========================================
+
+Test 1 - Even Number
+
+Enter an integer: 8
+8 is an even number.
+========================================
+
+
+Test 2 - Odd Number
+
+Enter an integer: 7
+7 is an odd number.
+========================================
+
+
+Test 3 - Negative Even Number
+
+Enter an integer: -8
+-8 is an even number.
+========================================
+
+
+Test 4 - Negative Odd Number
+
+Enter an integer: -7
+-7 is an odd number.
+========================================
