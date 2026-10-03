@@ -1,0 +1,25 @@
+========================================
+       PERSONAL INFORMATION PROFILE
+========================================
+
+Enter your full name: Rahul Sharma
+Enter your age: 21
+Enter your city: Pune
+Enter your college name: ABC College
+Enter your course: B.Tech Information Technology
+Enter your email address: student@example.com
+
+========================================
+             YOUR PROFILE
+========================================
+
+Name    : Rahul Sharma
+Age     : 21
+City    : Pune
+College : ABC College
+Course  : B.Tech Information Technology
+Email   : student@example.com
+
+========================================
+Thank you for providing your information!
+========================================
