@@ -1,0 +1,31 @@
+========================================
+          NUMBER GUESSING GAME
+========================================
+
+I have selected a number between 1 and 100.
+Try to guess the number!
+
+Sample Gameplay:
+
+Enter your guess: 40
+Too low! Try again.
+
+Enter your guess: 80
+Too high! Try again.
+
+Enter your guess: 70
+Too high! Try again.
+
+Enter your guess: 63
+
+Congratulations! You guessed the correct number.
+The number was 63.
+Number of attempts: 4
+========================================
+Invalid Input Test:
+
+Enter your guess: abc
+Invalid input. Please enter a whole number.
+
+Enter your guess: 150
+Please enter a number between 1 and 100.
