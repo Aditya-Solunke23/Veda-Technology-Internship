@@ -1,0 +1,55 @@
+========================================
+           SIMPLE TO-DO LIST
+========================================
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+========================================
+Enter your choice (1-5): 1
+
+Enter the task: Complete Python assignment
+Task added successfully.
+
+Enter your choice (1-5): 1
+
+Enter the task: Study DSA
+Task added successfully.
+
+Enter your choice (1-5): 2
+
+========== YOUR TASKS ==========
+1. Complete Python assignment
+2. Study DSA
+================================
+
+Enter your choice (1-5): 3
+
+========== YOUR TASKS ==========
+1. Complete Python assignment
+2. Study DSA
+================================
+Enter the task number to update: 2
+Enter the updated task: Study C++ DSA
+Task updated successfully.
+
+Enter your choice (1-5): 4
+
+========== YOUR TASKS ==========
+1. Complete Python assignment
+2. Study C++ DSA
+================================
+Enter the task number to remove: 1
+Task 'Complete Python assignment' removed successfully.
+
+Enter your choice (1-5): 2
+
+========== YOUR TASKS ==========
+1. Study C++ DSA
+================================
+
+Enter your choice (1-5): 5
+
+Thank you for using the To-Do List!
+========================================
