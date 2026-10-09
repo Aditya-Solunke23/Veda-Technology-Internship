@@ -1,0 +1,25 @@
+========================================
+         STUDENT RECORD SYSTEM
+========================================
+
+========== STUDENT RECORDS ==========
+1. Aditya - 85 marks
+2. Rahul - 72 marks
+3. Sneha - 91 marks
+4. Priya - 68 marks
+5. Rohan - 78 marks
+
+========== SCORE DETAILS ==========
+Highest Score : 91 - Sneha
+Lowest Score  : 68 - Priya
+
+Enter a student name to search: Sneha
+Sneha has scored 91 marks.
+
+========== SORTED BY MARKS ==========
+1. Sneha - 91 marks
+2. Aditya - 85 marks
+3. Rohan - 78 marks
+4. Rahul - 72 marks
+5. Priya - 68 marks
+====================================
