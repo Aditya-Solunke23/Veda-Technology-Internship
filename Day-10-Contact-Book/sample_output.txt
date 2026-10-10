@@ -1,0 +1,69 @@
+========================================
+            CONTACT BOOK
+========================================
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+========================================
+
+Enter your choice (1-6): 1
+
+Enter contact ID or phone number: C001
+Enter contact name: Aditya
+Enter phone number: 9876543210
+Enter email address: aditya@example.com
+Contact added successfully.
+
+Enter your choice (1-6): 1
+
+Enter contact ID or phone number: C002
+Enter contact name: Rahul
+Enter phone number: 9876543211
+Enter email address: rahul@example.com
+Contact added successfully.
+
+Enter your choice (1-6): 2
+
+========== CONTACTS ==========
+ID    : C001
+Name  : Aditya
+Phone : 9876543210
+Email : aditya@example.com
+------------------------------
+ID    : C002
+Name  : Rahul
+Phone : 9876543211
+Email : rahul@example.com
+------------------------------
+==============================
+
+Enter your choice (1-6): 3
+Enter contact ID or phone number to search: C001
+
+========== CONTACT FOUND ==========
+ID    : C001
+Name  : Aditya
+Phone : 9876543210
+Email : aditya@example.com
+===================================
+
+Enter your choice (1-6): 4
+Enter contact ID to update: C001
+
+Enter new information:
+Name [Aditya]: Aditya Solunke
+Phone [9876543210]:
+Email [aditya@example.com]:
+Contact updated successfully.
+
+Enter your choice (1-6): 5
+Enter contact ID to delete: C002
+Contact 'Rahul' deleted successfully.
+
+Enter your choice (1-6): 6
+
+Thank you for using the Contact Book!
+========================================
