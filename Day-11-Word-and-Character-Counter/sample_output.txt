@@ -1,0 +1,12 @@
+========================================
+      WORD AND CHARACTER COUNTER
+========================================
+
+Enter a paragraph: Python is easy to learn. I enjoy programming!
+
+========== TEXT STATISTICS ==========
+Characters : 48
+Words      : 8
+Sentences  : 2
+Spaces     : 7
+=====================================
