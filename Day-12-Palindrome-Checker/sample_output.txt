@@ -1,0 +1,45 @@
+
+---
+
+# 3. `sample_output.txt`
+
+Use multiple examples so you satisfy the requirement for **valid and invalid palindromes**:
+
+```text
+========================================
+          PALINDROME CHECKER
+========================================
+
+Enter a word or sentence: madam
+
+========== PALINDROME RESULT ==========
+Original Input : madam
+Normalized     : madam
+Result         : It is a palindrome!
+========================================
+
+
+========================================
+          PALINDROME CHECKER
+========================================
+
+Enter a word or sentence: A man a plan a canal Panama
+
+========== PALINDROME RESULT ==========
+Original Input : A man a plan a canal Panama
+Normalized     : amanaplanacanalpanama
+Result         : It is a palindrome!
+========================================
+
+
+========================================
+          PALINDROME CHECKER
+========================================
+
+Enter a word or sentence: Python
+
+========== PALINDROME RESULT ==========
+Original Input : Python
+Normalized     : python
+Result         : It is not a palindrome.
+========================================
