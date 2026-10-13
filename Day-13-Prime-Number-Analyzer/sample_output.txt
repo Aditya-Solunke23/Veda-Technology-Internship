@@ -1,0 +1,38 @@
+
+---
+
+# 3. `sample_output.txt`
+
+Use multiple test cases so you demonstrate both the prime checker and range generator:
+
+```text
+========================================
+         PRIME NUMBER ANALYZER
+========================================
+
+Enter a number to check: 17
+17 is a prime number.
+
+Enter the starting value: 1
+Enter the ending value: 20
+
+========== PRIME NUMBERS ==========
+Prime numbers from 1 to 20:
+[2, 3, 5, 7, 11, 13, 17, 19]
+===================================
+
+
+========================================
+         PRIME NUMBER ANALYZER
+========================================
+
+Enter a number to check: 20
+20 is not a prime number.
+
+Enter the starting value: 10
+Enter the ending value: 30
+
+========== PRIME NUMBERS ==========
+Prime numbers from 10 to 30:
+[11, 13, 17, 19, 23, 29]
+===================================
