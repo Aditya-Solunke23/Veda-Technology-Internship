@@ -1,0 +1,63 @@
+
+---
+
+# 3. `sample_output.txt`
+
+Put multiple examples in the file:
+
+```text
+========================================
+       TEMPERATURE CONVERTER
+========================================
+
+Select the input temperature unit:
+1. Celsius
+2. Fahrenheit
+3. Kelvin
+
+Enter your choice (1-3): 1
+Enter the temperature: 25
+
+========== CONVERSION RESULTS ==========
+Celsius    : 25.00 °C
+Fahrenheit : 77.00 °F
+Kelvin     : 298.15 K
+========================================
+
+
+========================================
+       TEMPERATURE CONVERTER
+========================================
+
+Select the input temperature unit:
+1. Celsius
+2. Fahrenheit
+3. Kelvin
+
+Enter your choice (1-3): 2
+Enter the temperature: 32
+
+========== CONVERSION RESULTS ==========
+Fahrenheit : 32.00 °F
+Celsius    : 0.00 °C
+Kelvin     : 273.15 K
+========================================
+
+
+========================================
+       TEMPERATURE CONVERTER
+========================================
+
+Select the input temperature unit:
+1. Celsius
+2. Fahrenheit
+3. Kelvin
+
+Enter your choice (1-3): 3
+Enter the temperature: 300
+
+========== CONVERSION RESULTS ==========
+Kelvin     : 300.00 K
+Celsius    : 26.85 °C
+Fahrenheit : 80.33 °F
+========================================
