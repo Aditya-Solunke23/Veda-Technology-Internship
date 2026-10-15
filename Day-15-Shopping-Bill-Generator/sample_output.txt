@@ -1,0 +1,34 @@
+
+================================================
+             SHOPPING BILL GENERATOR
+================================================
+
+Enter the number of products: 2
+
+Product 1
+Enter product name: Notebook
+Enter quantity: 2
+Enter price per item (Rs.): 50
+
+Product 2
+Enter product name: Pen
+Enter quantity: 3
+Enter price per item (Rs.): 10
+
+Enter discount percentage (0-100): 10
+Enter tax percentage (0-100): 5
+
+============================================================
+                    SHOPPING BILL
+============================================================
+Product              Qty       Price      Amount
+------------------------------------------------------------
+Notebook               2       50.00      100.00
+Pen                    3       10.00       30.00
+------------------------------------------------------------
+Subtotal:                         Rs.   130.00
+Discount:                         Rs.    13.00
+Tax:                              Rs.     5.85
+============================================================
+FINAL AMOUNT:                     Rs.   122.85
+============================================================
