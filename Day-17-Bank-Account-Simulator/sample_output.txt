@@ -1,0 +1,42 @@
+
+========================================
+       BANK ACCOUNT SIMULATOR
+========================================
+
+========== MAIN MENU ==========
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. View Transaction History
+5. Exit
+===============================
+Enter your choice (1-5): 2
+Enter deposit amount (Rs.): 5000
+Rs. 5000.00 deposited successfully.
+
+Current balance: Rs. 5000.00
+
+========== MAIN MENU ==========
+Enter your choice (1-5): 3
+Enter withdrawal amount (Rs.): 1500
+Rs. 1500.00 withdrawn successfully.
+
+Current balance: Rs. 3500.00
+
+========== MAIN MENU ==========
+Enter your choice (1-5): 4
+
+========== TRANSACTION HISTORY ==========
+Type              Amount (Rs.)    Balance (Rs.)
+-----------------------------------------------
+Deposit                5000.00          5000.00
+Withdrawal             1500.00          3500.00
+===============================================
+
+========== MAIN MENU ==========
+Enter your choice (1-5): 5
+
+Thank you for using the Bank Account Simulator!
+
+Current balance: Rs. 3500.00
+Goodbye!
