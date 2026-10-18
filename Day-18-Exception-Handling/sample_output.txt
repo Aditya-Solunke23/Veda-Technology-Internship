@@ -1,0 +1,59 @@
+
+========================================
+       EXCEPTION HANDLING DEMO
+========================================
+
+========== MENU ==========
+1. Invalid numeric input
+2. Division by zero
+3. Missing dictionary key
+4. Invalid list index
+5. Missing file
+6. Invalid square root
+7. Exit
+==========================
+Choose a case (1-7): 1
+
+1. INVALID NUMERIC INPUT
+Enter an integer: hello
+Error: Please enter a valid integer.
+Numeric input check completed.
+
+Choose a case (1-7): 2
+
+2. DIVISION BY ZERO
+Enter the numerator: 10
+Enter the denominator: 0
+Error: Division by zero is not allowed.
+Division operation completed.
+
+Choose a case (1-7): 3
+
+3. MISSING DICTIONARY KEY
+Enter a key to access (name/course/age): age
+Error: The requested key does not exist.
+Dictionary access completed.
+
+Choose a case (1-7): 4
+
+4. INVALID LIST INDEX
+Enter a list index (0-2): 5
+Error: Index is outside the list range.
+List access completed.
+
+Choose a case (1-7): 5
+
+5. MISSING FILE
+Enter a filename to read: missing.txt
+Error: File not found. Check the filename.
+File operation completed.
+
+Choose a case (1-7): 6
+
+6. INVALID SQUARE ROOT
+Enter a non-negative number: -9
+Error: A real square root requires a non-negative number.
+Square root operation completed.
+
+Choose a case (1-7): 7
+Thank you for exploring exception handling!
