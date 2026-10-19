@@ -1,0 +1,13 @@
+
+========================================
+          TEXT FILE PROCESSOR
+========================================
+
+Enter the text filename: input.txt
+
+========== FILE STATISTICS ==========
+Filename   : input.txt
+Lines      : 3
+Words      : 12
+Characters : 69
+=====================================
