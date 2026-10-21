@@ -1,0 +1,32 @@
+
+========================================
+          JSON DATA PROCESSOR
+========================================
+
+Loaded 5 employee records successfully.
+
+========== MENU ==========
+1. View all employees
+2. Search employee by name
+3. Filter by department
+4. Salary summary
+5. Save IT department records
+6. Exit
+==========================
+Enter your choice (1-6): 3
+Enter department: IT
+
+{'id': 101, 'name': 'Aditya', 'department': 'IT', 'salary': 35000, 'skills': ['Python', 'SQL', 'Git']}
+{'id': 103, 'name': 'Sneha', 'department': 'IT', 'salary': 45000, 'skills': ['Python', 'Java', 'SQL']}
+{'id': 105, 'name': 'Rohan', 'department': 'IT', 'salary': 38000, 'skills': ['Python', 'C++']}
+
+Enter your choice (1-6): 4
+Lowest salary  : Rs. 30,000.00
+Highest salary : Rs. 45,000.00
+Average salary : Rs. 37,600.00
+
+Enter your choice (1-6): 5
+Saved 3 IT employee records to filtered_employees.json.
+
+Enter your choice (1-6): 6
+Thank you for using the JSON Data Processor!
