@@ -1,0 +1,17 @@
+
+========================================
+            FILE ORGANIZER
+========================================
+
+Enter the path of the folder to organize: test_directory
+
+Moved: notes.txt -> txt/notes.txt
+Moved: photo.jpg -> jpg/photo.jpg
+Moved: report.pdf -> pdf/report.pdf
+Moved: script.py -> py/script.py
+Moved: data.csv -> csv/data.csv
+
+========== ORGANIZATION SUMMARY ==========
+Files organized : 5
+Files skipped   : 0
+===========================================
