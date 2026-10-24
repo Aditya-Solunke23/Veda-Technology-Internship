@@ -1,0 +1,29 @@
+========================================
+          PYTHON CLI QUIZ
+========================================
+Welcome! This quiz contains 10 questions.
+Choose the correct option: A, B, C, or D.
+
+Press Enter to start the quiz...
+
+Question 1/10
+Which function displays output in Python?
+  A. input()
+  B. read()
+  C. print()
+  D. displayText()
+Your answer: C
+Correct! ✓
+
+[Questions 2–10 continue here]
+
+========================================
+             QUIZ RESULTS
+========================================
+Total Questions : 10
+Correct Answers : 8
+Incorrect Answers: 2
+Final Score     : 8/10
+Percentage      : 80.00%
+Performance     : Excellent!
+========================================

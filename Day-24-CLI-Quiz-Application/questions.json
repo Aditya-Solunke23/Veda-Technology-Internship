@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which language is primarily used for styling web pages?",
+        "options": {
+            "A": "HTML",
+            "B": "CSS",
+            "C": "Python",
+            "D": "SQL"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which data structure stores key-value pairs in Python?",
+        "options": {
+            "A": "List",
+            "B": "Tuple",
+            "C": "Dictionary",
+            "D": "Set"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which keyword defines a function in Python?",
+        "options": {
+            "A": "function",
+            "B": "define",
+            "C": "fun",
+            "D": "def"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Which file extension is commonly used for Python files?",
+        "options": {
+            "A": ".py",
+            "B": ".java",
+            "C": ".html",
+            "D": ".cpp"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which loop is commonly used to iterate over a list?",
+        "options": {
+            "A": "switch",
+            "B": "for",
+            "C": "case",
+            "D": "goto"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which function displays output in Python?",
+        "options": {
+            "A": "input()",
+            "B": "read()",
+            "C": "print()",
+            "D": "displayText()"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following is a mutable Python data structure?",
+        "options": {
+            "A": "Tuple",
+            "B": "String",
+            "C": "Integer",
+            "D": "List"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Which module is used to work with JSON in Python?",
+        "options": {
+            "A": "json",
+            "B": "csv",
+            "C": "math",
+            "D": "randomize"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What does SQL primarily help us do?",
+        "options": {
+            "A": "Design images",
+            "B": "Manage and query databases",
+            "C": "Edit videos",
+            "D": "Create animations"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which function converts a string to an integer in Python?",
+        "options": {
+            "A": "str()",
+            "B": "float()",
+            "C": "int()",
+            "D": "list()"
+        },
+        "answer": "C"
+    }
+]
