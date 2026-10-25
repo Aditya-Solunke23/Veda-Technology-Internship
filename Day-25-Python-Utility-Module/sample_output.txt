@@ -1,0 +1,29 @@
+==================================================
+       PYTHON UTILITY MODULE DEMO
+==================================================
+
+1. VALIDATION UTILITIES
+Email validation: True
+Positive number validation: True
+Phone validation: True
+
+2. FORMATTING UTILITIES
+Currency: ₹12,345.50
+Title: Python Utility Module
+Formatted percentage: 75.00%
+
+3. CALCULATION UTILITIES
+Average: 30.0
+Factorial of 5: 120
+Numeric percentage: 25.0
+
+4. FILE UTILITIES
+Text file content:
+Hello! This file was created using our utility module.
+
+JSON data:
+{'name': 'Student', 'course': 'Python Programming', 'completed_day': 25}
+
+==================================================
+       DEMONSTRATION COMPLETED
+==================================================
