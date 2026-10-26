@@ -1,0 +1,18 @@
+```text
+=============================================
+         DATE AND TIME UTILITY
+=============================================
+1. Calculate Age
+2. Calculate Days Between Dates
+3. Count Working Days
+4. Format a Date
+5. Add Days to a Date
+6. Display Current Date and Time
+7. Calculate Time Difference
+8. Exit
+=============================================
+Enter your choice (1-8): 2
+
+Enter the first date (YYYY-MM-DD): 2026-01-01
+Enter the second date (YYYY-MM-DD): 2026-01-10
+Difference: 9 days.
