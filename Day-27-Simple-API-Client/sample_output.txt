@@ -1,0 +1,33 @@
+
+## 5. Create `sample_output.txt`
+
+Your output should look similar to this. The post content shown here is illustrative.
+
+```text
+============================================================
+                 SIMPLE API CLIENT
+============================================================
+
+How many posts would you like to fetch? (1-10, or 0 to exit): 2
+
+Connecting to the API...
+API request successful!
+HTTP Status Code: 200
+
+============================================================
+              PUBLIC API CLIENT
+============================================================
+
+Post ID : 1
+User ID : 1
+Title   : Example post title
+Body    : Example post content returned by the API.
+------------------------------------------------------------
+
+Post ID : 2
+User ID : 1
+Title   : Another example title
+Body    : Another example post returned by the API.
+------------------------------------------------------------
+
+Total posts displayed: 2
