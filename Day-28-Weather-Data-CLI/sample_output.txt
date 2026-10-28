@@ -1,0 +1,25 @@
+
+## 5. Create `sample_output.txt`
+
+The following is an example of how the output will look. Actual weather values depend on the API response.
+
+```text
+=============================================
+             WEATHER DATA CLI
+=============================================
+
+Enter a city name (or type 'exit' to quit): Pune
+
+=============================================
+             CURRENT WEATHER
+=============================================
+Location      : Pune, Maharashtra, India
+Observation   : 2026-10-28T10:00
+Condition     : Partly cloudy
+Temperature   : 28.5 °C
+Feels Like    : 30.2 °C
+Humidity      : 55%
+Wind Speed    : 8.4 km/h
+Precipitation : 0.0 mm
+Day/Night     : Day
+=============================================
