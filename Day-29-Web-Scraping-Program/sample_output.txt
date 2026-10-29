@@ -1,0 +1,26 @@
+
+## 5. Create `sample_output.txt`
+
+This is an example of the terminal output. The actual book details may vary.
+
+```text
+=======================================================
+              WEB SCRAPING PROGRAM
+=======================================================
+Website: https://books.toscrape.com/
+
+Fetching webpage...
+Webpage retrieved successfully.
+
+Extracting book information...
+Total books extracted: 20
+
+Sample extracted records:
+-------------------------------------------------------
+Title        : Example Book Title
+Price        : £51.77
+Rating       : Three
+Availability : In stock
+-------------------------------------------------------
+
+Data saved successfully to: scraped_books.csv
