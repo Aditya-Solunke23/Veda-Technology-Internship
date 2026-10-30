@@ -1,0 +1,40 @@
+
+## 6. Create `sample_output.txt`
+
+The output for the supplied sample log should look like this:
+
+```text
+=======================================================
+                 LOG FILE ANALYZER
+=======================================================
+
+=======================================================
+                 LOG ANALYSIS REPORT
+=======================================================
+Total requests       : 12
+Error responses (4xx/5xx): 4
+Malformed lines      : 1
+
+HTTP STATUS CODE SUMMARY
+-------------------------------------------------------
+HTTP 200: 8
+HTTP 401: 1
+HTTP 403: 1
+HTTP 404: 1
+HTTP 500: 1
+
+TOP 5 IP ADDRESSES
+-------------------------------------------------------
+192.168.1.10            5 request(s)
+192.168.1.11            3 request(s)
+192.168.1.12            3 request(s)
+192.168.1.13            1 request(s)
+
+TOP 5 REQUESTED ENDPOINTS
+-------------------------------------------------------
+/home                               4 request(s)
+/products                           3 request(s)
+/login                              2 request(s)
+/admin                              1 request(s)
+/api/users                          1 request(s)
+=======================================================
