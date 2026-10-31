@@ -1,0 +1,22 @@
+
+## 5. Create `sample_output.txt`
+
+```text
+=============================================
+           PASSWORD GENERATOR
+=============================================
+Enter password length (minimum 4): 12
+
+Choose character types:
+1. Lowercase letters
+2. Uppercase letters
+3. Digits
+4. Special characters
+Enter choices separated by commas (e.g., 1,2,3,4): 1,2,3,4
+
+=============================================
+Generated Password:
+Example!7aQ2m#
+=============================================
+
+For security, this application does not save or log passwords.
