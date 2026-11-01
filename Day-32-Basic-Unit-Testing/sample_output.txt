@@ -1,0 +1,17 @@
+test_add_negative_numbers ... ok
+test_add_positive_numbers ... ok
+test_divide_by_zero_raises_error ... ok
+test_divide_numbers ... ok
+test_even_number ... ok
+test_multiply_by_zero ... ok
+test_multiply_positive_numbers ... ok
+test_odd_number ... ok
+test_square_negative_number ... ok
+test_square_positive_number ... ok
+test_subtract_numbers ... ok
+test_subtract_to_negative_result ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.001s
+
+OK
