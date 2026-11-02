@@ -1,0 +1,20 @@
+Sample Output – Day 33: Python Project With Logging
+
+The program runs successfully and creates an app.log file.
+
+Example app.log contents:
+
+2026-11-02 16:30:00 - INFO - Student Manager application started.
+2026-11-02 16:30:00 - INFO - Student 101 added successfully.
+2026-11-02 16:30:00 - INFO - Student 102 added successfully.
+2026-11-02 16:30:00 - WARNING - Student ID 101 already exists.
+2026-11-02 16:30:00 - WARNING - Student ID 999 was not found.
+2026-11-02 16:30:00 - ERROR - Invalid marks entered for student ID 103.
+2026-11-02 16:30:00 - INFO - Student record 101 viewed.
+2026-11-02 16:30:00 - INFO - Grade calculated for student ID 101: B
+2026-11-02 16:30:00 - INFO - Student Manager application finished.
+
+Logging levels demonstrated:
+- INFO: Successful application events
+- WARNING: Duplicate or missing student records
+- ERROR: Invalid student data
