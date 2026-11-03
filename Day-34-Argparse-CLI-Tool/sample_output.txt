@@ -1,0 +1,29 @@
+
+## 4. Create `sample_output.txt`
+
+```text
+Day 34 – Python Command-Line Tool with argparse
+
+Command:
+python password_cli.py --length 14 --lower --upper --digits --symbols
+
+Output:
+Generated Password:
+Example!7aQ2m#x
+
+Command:
+python password_cli.py --help
+
+Output:
+usage: password_cli.py [-h] [-l LENGTH] [--lower] [--upper] [--digits] [--symbols]
+
+Generate a secure password with selected character types.
+
+options:
+  -h, --help            show this help message and exit
+  -l LENGTH, --length LENGTH
+                        Password length (default: 12)
+  --lower               Include lowercase letters
+  --upper               Include uppercase letters
+  --digits              Include digits
+  --symbols             Include special characters
