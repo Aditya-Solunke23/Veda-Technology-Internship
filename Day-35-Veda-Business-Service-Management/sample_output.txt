@@ -1,0 +1,47 @@
+
+---
+
+## 6. Create `sample_output.txt`
+
+Use this as a sample. Your actual counts will depend on the records you entered while testing.
+
+```text
+VEDA TECHNOLOGY BUSINESS & SERVICE MANAGEMENT SYSTEM
+
+Main Menu:
+1. Manage Digital Services
+2. Manage Technology, Training & Internship Programs
+3. Manage Customer Inquiries
+4. Manage Service Requests
+5. Search Across All Records
+6. View Business Reports
+7. Exit
+
+Sample Business Report:
+
+==========================================
+       VEDA TECHNOLOGY BUSINESS REPORT
+==========================================
+
+DIGITAL SERVICES
+Total Services       : 1
+Active Services      : 1
+
+PROGRAMS
+Technology Programs  : 0
+Training Programs    : 0
+Internship Programs  : 1
+Total Programs       : 1
+
+CUSTOMER INQUIRIES
+Total Inquiries      : 1
+Open Inquiries       : 1
+Resolved Inquiries   : 0
+
+SERVICE REQUESTS
+Total Requests       : 1
+Pending Requests     : 1
+Completed Requests   : 0
+Urgent Requests      : 0
+
+==========================================
