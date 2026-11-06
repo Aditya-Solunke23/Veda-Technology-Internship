@@ -1,132 +1,105 @@
-Veda Technology Business & Service Management System
+# Veda Technology Business & Service Management System
 
-A menu-driven Python application developed as part of my Veda Technology Python Programming Internship.
+A Python-based, menu-driven Business & Service Management System developed as part of my Veda Technology Python Programming Internship.
 
-The project is designed to manage the operations of a technology and digital-services organization, including digital services, technology and training programs, internship programs, customer inquiries, and service requests.
+The application is designed to manage the operations of a technology and digital-services organization, including digital services, technology and training programs, internship programs, customer inquiries, and service requests.
 
-The application uses Object-Oriented Programming, Modular Programming, and JSON-based file storage to organize and manage information.
+The project applies Object-Oriented Programming, Modular Programming, and JSON-based data storage to create an organized and maintainable application.
 
-Project Development Timeline
+---
 
-Day 1 – Project Planning & Core Module Development
+## Project Development Timeline
 
-Internship Day 35
+### Day 1 – Project Planning & Core Module Development
+**Internship Day 35**
 
 The first day focused on understanding the project requirements, planning the application architecture, and developing its foundational components.
 
-Work Completed:
+**Work Completed:**
+- Planned the overall application structure and functionality.
+- Created the project directory and modular file structure.
+- Created Python classes for digital services, programs, customer inquiries, and service requests.
+- Developed the Digital Service Management module.
+- Developed the Technology, Training, and Internship Program Management module.
+- Implemented the initial JSON-based data storage structure.
 
-Planned the overall application structure and functionality.
+**Concepts Applied:** Python OOP, Classes and Objects, Functions, Modules, Lists, Dictionaries, and JSON.
 
-Created the project directory and modular file structure.
-
-Implemented Python classes for:
-
-Digital Services
-
-Programs
-
-Customer Inquiries
-
-Service Requests
-
-Developed the Digital Service Management module.
-
-Developed the Technology, Training, and Internship Program Management module.
-
-Implemented the initial JSON-based data storage structure.
-
-Concepts Applied: Python OOP, Classes and Objects, Functions, Modules, Lists, Dictionaries, and JSON.
-
-Day 2 – Module Development & Application Integration
-
-Internship Day 36
+### Day 2 – Module Development & Application Integration
+**Internship Day 36**
 
 The second day focused on developing the remaining management modules and connecting them to the main application.
 
-Work Completed:
+**Work Completed:**
+- Developed the Customer Inquiry Management module.
+- Implemented adding, viewing, searching, and updating customer inquiries.
+- Developed the Service Request Management module.
+- Implemented service request priorities and status management.
+- Integrated all management modules into the main application menu.
+- Developed search functionality across different categories of records.
+- Implemented a business reporting module to display important record statistics.
 
-Developed the Customer Inquiry Management module.
+**Concepts Applied:** Modular Programming, OOP, JSON File Handling, Data Management, Searching, and Application Integration.
 
-Implemented adding, viewing, searching, and updating customer inquiries.
-
-Developed the Service Request Management module.
-
-Implemented service request priorities and status management.
-
-Integrated all management modules into the main application menu.
-
-Developed a search feature to search across different records.
-
-Implemented a business reporting module to display important record statistics.
-
-Concepts Applied: Modular Programming, OOP, JSON File Handling, Data Management, Searching, and Application Integration.
-
-Day 3 – Application Testing & Final Verification
-
-Internship Day 37
+### Day 3 – Application Testing & Verification
+**Internship Day 37**
 
 The third day focused on testing the integrated application and verifying that its different functionalities worked together correctly.
 
-Work Completed:
+**Work Completed:**
+- Tested the complete application through the main menu.
+- Verified digital service and program management operations.
+- Tested customer inquiry creation and status updates.
+- Tested service request creation, priority selection, and status updates.
+- Verified search functionality across all records.
+- Tested business reports and record statistics.
+- Checked JSON-based data persistence by restarting the application.
+- Reviewed the overall project structure.
 
-Tested the complete application through the main menu.
+**Concepts Applied:** Application Testing, Debugging, Exception Handling, File Handling, Modular Programming, and Data Persistence.
 
-Verified digital service and program management operations.
+### Day 4 – Final Refinement & Project Completion
+**Internship Day 38**
 
-Tested customer inquiry creation and status updates.
+The fourth day focused on reviewing the complete project, consolidating the developed modules, and preparing the application for final submission.
 
-Tested service request creation, priority selection, and status updates.
+**Work Completed:**
+- Reviewed the overall application architecture and project organization.
+- Performed a final review of the individual management modules.
+- Checked the integration between the main menu and supporting modules.
+- Reviewed the JSON data storage structure and persistence workflow.
+- Consolidated the project documentation and development timeline.
+- Organized the final project files and GitHub submission structure.
+- Prepared the project for final demonstration and submission.
 
-Verified search functionality across all records.
+**Concepts Applied:** Project Organization, Code Review, Application Integration, Documentation, Testing, and Version Control using Git.
 
-Tested business reports and record statistics.
+---
 
-Checked JSON-based data persistence by restarting the application.
+## Key Features
 
-Reviewed the overall project structure and documentation.
+- **Digital Service Management:** Add, view, and search digital services.
+- **Program Management:** Manage technology, training, and internship programs.
+- **Customer Inquiry Management:** Maintain customer inquiries and update their statuses.
+- **Service Request Management:** Create and manage service requests with different priorities.
+- **Search Functionality:** Search across multiple categories of records.
+- **Business Reports:** View basic statistics about services, programs, inquiries, and service requests.
+- **Persistent Data Storage:** Store application records using JSON files.
 
-Concepts Applied: Application Testing, Debugging, Exception Handling, File Handling, Modular Programming, and Data Persistence.
+## Technologies Used
 
-Day 4 – Upcoming Project Development
+- Python
+- JSON
+- Object-Oriented Programming
+- Modular Programming
+- File Handling
+- Exception Handling
+- Git and GitHub
 
-Internship Day 38
+## Project Structure
 
-Project updates and additional improvements will be documented here after completing the fourth day of development.
-
-Key Features
-
-Digital Service Management: Add, view, and search digital services.
-
-Program Management: Manage technology, training, and internship programs.
-
-Customer Inquiry Management: Maintain customer inquiries and update their statuses.
-
-Service Request Management: Create and manage service requests with different priorities.
-
-Search Functionality: Search across multiple categories of records.
-
-Business Reports: View basic statistics about services, programs, inquiries, and requests.
-
-Persistent Data Storage: Store application records using JSON files.
-
-Technologies Used
-
-Python
-
-JSON
-
-Object-Oriented Programming
-
-Modular Programming
-
-File Handling
-
-Exception Handling
-
-Project Structure
-
-Day-35-Veda-Business-Service-Management/
+```text
+Day-37-Veda-Business-Service-Management/
 │
 ├── main.py
 ├── models.py
@@ -146,57 +119,61 @@ Day-35-Veda-Business-Service-Management/
 │
 ├── README.md
 └── sample_output.txt
+```
 
-How to Run the Project
+## How to Run the Project
 
-1. Clone the repository
+**1. Clone the repository**
 
+```bash
 git clone https://github.com/Aditya-Solunke23/Veda-Technology-Internship.git
+```
 
-2. Navigate to the project directory
+**2. Navigate to the project directory**
 
-cd Veda-Technology-Internship/Day-35-Veda-Business-Service-Management
+```bash
+cd Veda-Technology-Internship/Day-37-Veda-Business-Service-Management
+```
 
-3. Run the application
+**3. Run the application**
 
+```bash
 python main.py
+```
 
-Data Storage
+## Data Storage
 
 The application uses JSON files to store information about digital services, programs, customer inquiries, and service requests.
 
 This allows records to remain available even after the application is closed and restarted.
 
-Learning Outcomes
+## Learning Outcomes
 
-Through this project, I gained practical experience in:
+Through this four-day project, I gained practical experience in:
 
-Designing and developing a modular Python application.
+- Designing and developing a modular Python application.
+- Applying Object-Oriented Programming principles.
+- Managing structured data using JSON.
+- Working with multiple Python modules.
+- Implementing search and reporting functionalities.
+- Handling user input and exceptions.
+- Testing and integrating different application components.
+- Organizing and documenting a complete software project.
 
-Applying Object-Oriented Programming principles.
+## Future Enhancements
 
-Managing structured data using JSON.
+- Database integration using MySQL or SQLite.
+- User authentication and role-based access.
+- Graphical User Interface (GUI).
+- Advanced reporting and analytics.
+- Exporting reports to CSV or PDF.
 
-Working with multiple Python modules.
+---
 
-Implementing search and reporting functionalities.
+**Developed by:** Aditya Solunke
 
-Handling user input and exceptions.
+**Internship:** Veda Technology – Python Programming Internship
 
-Testing and integrating different application components.
+**Project:** Business & Service Management System
 
-Future Enhancements
-
-Database integration using MySQL or SQLite.
-
-User authentication and role-based access.
-
-Graphical User Interface (GUI).
-
-Advanced reporting and analytics.
-
-Exporting reports to CSV or PDF.
-
-Developed by: Aditya Solunke
-Internship: Veda Technology – Python Programming Internship
-Project: Business & Service Management System
+**Project Duration:** 4 Days
