@@ -1,0 +1,10 @@
+[
+    {
+        "service_id": "DS001",
+        "name": "Website Development",
+        "category": "Digital Services",
+        "description": "Business Website Development",
+        "price": 20000.0,
+        "status": "Active"
+    }
+]
